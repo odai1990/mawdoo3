@@ -1,0 +1,17 @@
+
+
+
+$theme-colors: (
+    "primary": #521751,
+    "secondary": #ce7244,
+  );
+
+
+// $custom-colors: 
+//     ("custom-color-bander": #521751,"custom-color-bander-tags": #ce7244,);
+
+
+// $theme-colors:
+//     map-merge($theme-colors, $custom-colors);
+
+@import 'node_modules/bootstrap/scss/bootstrap'
